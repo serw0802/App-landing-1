@@ -2,9 +2,6 @@
 
 Pod is a fully responsive audio streaming app landing page, responsive for all devices, built using HTML, CSS, and JavaScript.
 
-## Demo
-
-![Pod Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
 
 ## Prerequisites
 
