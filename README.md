@@ -24,11 +24,3 @@ Windows:
 ```bash
 git clone https://github.com/codewithsadee/pod-audio_sreaming-app-landing_page.git
 ```
-
-## Contact
-
-If you want to contact me you can reach me on [Twitter](https://www.twitter.com/codewithsadee).
-
-## License
-
-This project is **free to use** and does not contains any license.
