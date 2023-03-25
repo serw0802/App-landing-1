@@ -16,7 +16,7 @@ To install **Pod**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/pod-audio_sreaming-app-landing_page.git
+sudo git clone https://github.com/serw0802/App-landing-1.git
 ```
 
 Windows:
