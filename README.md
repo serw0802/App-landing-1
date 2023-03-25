@@ -22,5 +22,5 @@ sudo git clone https://github.com/codewithsadee/pod-audio_sreaming-app-landing_p
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/pod-audio_sreaming-app-landing_page.git
+git clone https://github.com/serw0802/App-landing-1.git
 ```
